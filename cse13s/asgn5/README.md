@@ -1,6 +1,5 @@
 # Assignment 5
 Yi-Wen Chen <br>
-cruzID: ychen729
 ## Compilation
 to compile the LRU, run the following command <br>
 ```bash
